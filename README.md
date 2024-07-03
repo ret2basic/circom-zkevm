@@ -1,4 +1,7 @@
-# zvm
+# circom zkevm
+
+A fork of [zvm](https://github.com/tokamak-network/zvm).
+
 Zero Knowledge based Ethereum Virtual Machine in Circom language
 
 ## Dependencies
